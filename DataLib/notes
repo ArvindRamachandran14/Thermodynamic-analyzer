@@ -1,0 +1,14 @@
+Data library class
+
+Variables are stored in the register format. An object of the Register class has the following formal (reg_index, reg_name, timestamp, value)
+
+The DataLib class stores many register objects for the many system variables
+
+#Edit on Github webiste
+
+#Edit on Macbook  5/28/2019 6:01 pm
+
+#Edit on Macbook 8/6/2019 9:48 pm
+
+#Removed .git file from Datalib subfolder 10:04 pm
+
