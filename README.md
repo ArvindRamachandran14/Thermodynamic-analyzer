@@ -6,9 +6,9 @@ Contact - aramac13@asu.edu
 
 # Thermodynamic Analyzer (TA)
 
-The TA is an apparatus that is used to study the thermodynamics of direct air capture sorbents
+The TA is an apparatus that is used to study the thermodynamics of Direct Air Capture sorbents
 
-Direct air capture is the process of capturing CO2 from the atmosphere for sequestraion purposes
+Direct Air Capture (DAC) is the process of capturing CO2 from the atmosphere, as a way of managing the build up of CO2 in the atomsphere. To learm more about DAC visit https://cnce.engineering.asu.edu/
 
 The TA is controlled by the thermodynamic analyzer controller (TAC), which in our set up is a Raspberry Pi. The software for the TAC can be found at https://github.com/ArvindRamachandran14/TAC
 
